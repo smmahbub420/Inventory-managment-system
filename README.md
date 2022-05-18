@@ -1,4 +1,3 @@
-# Inventory-managment-system
 CRUD  Operations for Users
 
 CRUD  Operations for Product
